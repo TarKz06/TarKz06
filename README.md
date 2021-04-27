@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**TarKz06/TarKz06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Khematat Suphamittanont</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/khematat-suphamittanont-a7b7ab207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004354179578" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"  height="30" width="40" /></a>
+<a href="https://leetcode.com/TarKz066/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg"  height="30" width="40" /></a>
 
-Here are some ideas to get you started:
+ <a href = "mailto: setarkz06@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+</p>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<p align="center">
+  <em>
+    This is ME, Khematat Suphamittanont<b>Second year</b> undergraduate from <a href="http://www.go-camt.com/index.php/th/"> <b>College of arts media and technology</b></a>. <br>
+   
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>BELIEVE YOU CAN AND YOU'RE HALFWAY THERE!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
+<hr>
+
+
