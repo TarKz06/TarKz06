@@ -14,11 +14,11 @@
 
 <p align="center">
   <em>
-    This is ME, Khematat Suphamittanont<b>Second year</b> undergraduate from <a href="http://www.go-camt.com/index.php/th/"> <b>College of arts media and technology</b></a>. <br>
+    This is ME, Khematat Suphamittanont<b> Second year</b> undergraduate from <a href="http://www.go-camt.com/index.php/th/"> <b>College of arts media and technology</b></a>. <br>
    
   </em> 
   <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>BELIEVE YOU CAN AND YOU'RE HALFWAY THERE!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+  <img src="https://media.giphy.com/media/6SMPIQVz4NHk6vLU29/giphy.gif" width="70" /> <b><i>BELIEVE YOU CAN AND YOU'RE HALFWAY THERE!!!</i></b> <img src="https://media.giphy.com/media/WyCg3mmQeK9kF9Fd2h/giphy.gif" width="90" />
 </p>
 
 <hr>
