@@ -1,6 +1,6 @@
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Khematat Suphamittanont</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/ZtzwBkfSzNc9sNDNH5/giphy.gif" width="50px">  ,  I'm Khematat Suphamittanont</h1>
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/khematat-suphamittanont-a7b7ab207/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  height="30" width="40" /></a>
@@ -22,5 +22,4 @@
 </p>
 
 <hr>
-
 
