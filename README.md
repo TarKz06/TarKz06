@@ -14,7 +14,7 @@
 
 <p align="center">
   <em>
-    This is ME, Khematat Suphamittanont<b> Second year</b> undergraduate from <a href="http://www.go-camt.com/index.php/th/"> <b>College of arts media and technology</b></a>. <br>
+    This is ME, Khematat Suphamittanont<b> Third year</b> undergraduate from <a href="http://www.go-camt.com/index.php/th/"> <b>College of arts media and technology</b></a>. <br>
    
   </em> 
   <br>
